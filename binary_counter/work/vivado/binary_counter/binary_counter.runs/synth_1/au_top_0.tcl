@@ -86,6 +86,7 @@ OPTRACE "Adding files" START { }
 read_verilog -library xil_defaultlib {
   /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.srcs/sources_1/imports/verilog/binary_counter_2.v
   /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.srcs/sources_1/imports/verilog/counter_3.v
+  /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.srcs/sources_1/imports/verilog/debounce_4.v
   /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.srcs/sources_1/imports/verilog/reset_conditioner_1.v
   /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.srcs/sources_1/imports/verilog/au_top_0.v
 }

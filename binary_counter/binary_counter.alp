@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="binary_counter" board="Alchitry Au" language="Verilog" version="3">
   <files>
+    <src>debounce.v</src>
     <src>binary_counter.v</src>
     <src top="true">au_top.v</src>
     <component>reset_conditioner.luc</component>
