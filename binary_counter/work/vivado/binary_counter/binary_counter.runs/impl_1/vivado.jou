@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 04:59:54 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sat Dec  3 02:07:52 2022
+# Process ID: 328038
+# Current directory: /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.runs/impl_1
+# Command line: vivado -log au_top_0.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source au_top_0.tcl -notrace
+# Log file: /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.runs/impl_1/au_top_0.vdi
+# Journal file: /home/iommu/Desktop/FPGA/binary_counter/work/vivado/binary_counter/binary_counter.runs/impl_1/vivado.jou
+# Running On: 0x00, OS: Linux, CPU Frequency: 2368.056 MHz, CPU Physical cores: 16, Host memory: 33045 MB
+#-----------------------------------------------------------
+source au_top_0.tcl -notrace

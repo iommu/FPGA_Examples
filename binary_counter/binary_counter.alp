@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="binary_counter" board="Alchitry Au" language="Verilog" version="3">
+  <files>
+    <src>binary_counter.v</src>
+    <src top="true">au_top.v</src>
+    <component>reset_conditioner.luc</component>
+    <src>counter.v</src>
+    <constraint lib="true">alchitry.acf</constraint>
+    <constraint lib="true">au.xdc</constraint>
+  </files>
+</project>
