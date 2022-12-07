@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="4011" board="Alchitry Au" language="Verilog" version="3">
+  <files>
+    <component>reset_conditioner.luc</component>
+    <src top="true">au_top.v</src>
+    <constraint>io.acf</constraint>
+    <constraint lib="true">alchitry.acf</constraint>
+    <constraint lib="true">au.xdc</constraint>
+  </files>
+</project>
